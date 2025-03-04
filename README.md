@@ -1,4 +1,4 @@
-🦿 "Every frame a painting, every line of code a brushstroke." - My programming journey began during my final year studying Audiovisual Communication, where I took a course on Digital Information Services Development. What started as a curiosity soon became my passion: crafting immersive digital experiences.
+🦿 My programming journey began during my final year studying Audiovisual Communication, where I took a course on Digital Information Services Development. What started as a curiosity soon became my passion: crafting immersive digital experiences.
 
 🎨 Front-end is my canvas. I love designing clean, accessible, responsive interfaces with CSS, JavaScript and modern frameworks like Angular. Whether it's the perfect typography or the smoothest animations, I strive for the polish of a Kubrick frame and the precision of a Fincher cut.
 
