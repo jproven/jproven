@@ -1,20 +1,44 @@
-🦿 My programming journey began during my final year studying Audiovisual Communication, where I took a course on Digital Information Services Development. What started as a curiosity soon became my passion: crafting immersive digital experiences.
+# 🎨 Frontend Developer in Progress  
 
-🎨 Front-end is my canvas. I love designing clean, accessible, responsive interfaces with CSS, JavaScript and modern frameworks like Angular. Whether it's the perfect typography or the smoothest animations, I strive for the polish of a Kubrick frame and the precision of a Fincher cut.
+## 🦿 My Journey  
+My programming path began during my final year  
+of **Audiovisual Communication**, where I took a course  
+on **Digital Information Services Development**.  
 
-    💡 My stack includes:
+What started as curiosity soon became a passion:  
+**crafting immersive digital experiences** with a strong  
+emphasis on usability, aesthetics, and performance.  
 
-      🎭 JavaScript & TypeScript – because every good story needs a solid script.
+## 🎨 The Art of Frontend  
+For me, **frontend development is a form of digital storytelling**.  
+Every interface should be as visually compelling as it is functional,  
+with clean layouts, seamless interactions, and well-structured code.  
 
-      🏗️ HTML & CSS (Sass, Bootstrap) – building visually compelling layouts, where every pixel has a purpose.
+I focus on **responsive design, accessibility, and smooth animations**,  
+ensuring that every element on the screen serves a purpose.  
+Precision in structure and attention to detail are key  
+to delivering high-quality user experiences.  
 
-      ⚙️ Symfony & MySQL – structuring the backend like a well-written three-act screenplay.
+## 💡 Tech Stack  
 
-      🚀 Angular – orchestrating components like an ensemble cast in a perfectly timed scene.
+- 🎭 **JavaScript & TypeScript** – Writing clear, maintainable code  
+  for dynamic applications.  
+- 🏗️ **HTML & CSS (Sass, Bootstrap, Tailwind)** –  
+  Crafting structured and visually engaging designs.  
+- ⚙️ **Symfony & MySQL** – Managing backend logic and data efficiently.  
+- 🚀 **Angular** – Building modular, scalable, and interactive UIs.  
 
-      🌱 "There's always a bigger fish." - I'm constantly learning and refining my skills in UX/UI design, CSS animations, and performance optimization to make every project not just functional, but delightful.
+## 🌱 Always Learning  
+The web is constantly evolving, and so am I.  
+I’m always exploring **UX/UI design principles, CSS animations,**  
+and **performance optimization** to enhance both usability and aesthetics.  
 
-📫 Feel free to reach out! Whether it’s about web development, front-end magic, or just geeking out over cinema.
+My goal is to create experiences that feel **natural, fluid, and intuitive**.  
+
+## 📫 Get in Touch  
+If you’re passionate about **web development, frontend design,**  
+or just want to exchange ideas, feel free to reach out!
+
 
 <!---
 jproven/jproven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
