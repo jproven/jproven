@@ -6,10 +6,11 @@
 
 💡 My tech stack:
 
-    🎭 JavaScript & TypeScript — every good story needs a solid script.
     🏗️ HTML & CSS (Sass, Bootstrap) — building layouts where every pixel earns its place.
-    ⚙️ Symfony & MySQL — backend architecture structured like a well-written three-act screenplay.
+    🎭 JavaScript & TypeScript — every good story needs a solid script.
     🚀 Angular — orchestrating components like an ensemble cast hitting every cue on time.
+    ☕ Java — versatile and robust, powering logic with consistency.
+    ⚙️ Symfony & MySQL — backend architecture structured like a well-written three-act screenplay.
 
 📫 Let’s connect! Whether it’s about web development, front-end magic, or just geeking out about cinema.
 
